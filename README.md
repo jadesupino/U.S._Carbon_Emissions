@@ -39,6 +39,18 @@ These metrics support facility-level and state-level emissions comparison over t
 - Time slider and play button for to visuzalize annual emission trends from 2011 - 2020
 - Interactive charts highlighting emissions differences across states and top power plants  
 
+## Dashboard Preview
+### Default View
+This view displays the dashboard upon initial load.
+
+![Default Dashboard View](images/dashboard-default_view.jpg)
+
+### Filtered View
+This view demonstrates how the user can effectively apply the interactive filters (state, year, and facility) to explore location and facility-specific emissions trends.
+
+![Filtered Dashboard View](images/dashboard-filtered_view.jpg)
+
+
 ## How to Run Locally
 1. Install required libraries:
    pip install numpy pandas plotly dash
