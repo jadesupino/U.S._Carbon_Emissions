@@ -46,7 +46,7 @@ This view displays the dashboard upon initial load.
 ![Default Dashboard View](images/Dashboard_Default_View.jpg)
 
 ### Filtered View
-This view demonstrates how the user can effectively apply the interactive filters (state, year, and facility) to explore location and facility-specific emissions trends.
+This view demonstrates how the user can effectively apply the interactive filters (state, year, and facility) to explore location and facility-specific emissions trends. Users can also zoom in on charts or highlight specific data for more detailed analysis.
 
 ![Filtered Dashboard View](images/Dashboard_Filtered_View.jpg)
 
