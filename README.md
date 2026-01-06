@@ -43,12 +43,12 @@ These metrics support facility-level and state-level emissions comparison over t
 ### Default View
 This view displays the dashboard upon initial load.
 
-![Default Dashboard View](images/dashboard-Default_View.jpg)
+![Default Dashboard View](images/Default_View.jpg)
 
 ### Filtered View
 This view demonstrates how the user can effectively apply the interactive filters (state, year, and facility) to explore location and facility-specific emissions trends.
 
-![Filtered Dashboard View](images/dashboard-Filtered_View.jpg)
+![Filtered Dashboard View](images/Filtered_View.jpg)
 
 
 ## How to Run Locally
