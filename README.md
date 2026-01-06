@@ -27,7 +27,7 @@ These metrics support facility-level and state-level emissions comparison over t
 ## Key Insights
 - A small number of states account for the majority of total CO₂ emissions, highlighting high-impact regions for targeted emission reduction initiatives.
 - Emissions trends vary across states and facilities, indicating that location-specific strategies are necessary to effectively reduce overall emissions.
-- Several high-emission power plants have shown minimal reduction over the 2011–2020 period, suggesting the need for focused interventions at the facility level.
+- Several high-emission power plants have shown minimal reduction over the 2011–2020 period, suggesting the need for focused interventions at the facility-level.
 
 ## Recommendations
 - Prioritize emissions reduction initiatives in top-emitting states  
@@ -35,9 +35,9 @@ These metrics support facility-level and state-level emissions comparison over t
 - Use interactive monitoring tools to track progress over time  
 
 ## Dashboard Features
-- Dropdown menus for state selection  
-- Time slider and play button for to visuzalize year-over-year emission trends
-- Interactive charts for comparison across regions  
+- Dropdown menus for state selection, supporting location-specific emissions insights
+- Time slider and play button for to visuzalize annual emission trends from 2011 - 2020
+- Interactive charts highlighting emissions differences across states and top power plants  
 
 ## How to Run Locally
 1. Install required libraries:
